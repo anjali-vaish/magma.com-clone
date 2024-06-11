@@ -44,13 +44,6 @@ This project is a clone of the Magma.com website, created using HTML, CSS, and J
 3. **Dependencies**:
    - Ensure you have an internet connection to load external dependencies (e.g., Locomotive Scroll, GSAP) included via CDN.
 
-## Screenshots
-
-![a](https://github.com/anjali-vaish/magma.com-clone/assets/109058389/410f0059-2411-4665-a54c-c0e27301bf0a)
-![d](https://github.com/anjali-vaish/magma.com-clone/assets/109058389/06b3075e-4f78-40f5-bde9-605c47be3df7)
-![b](https://github.com/anjali-vaish/magma.com-clone/assets/109058389/c0bf3013-97f1-46ec-814b-313fa283571b)
-![c](https://github.com/anjali-vaish/magma.com-clone/assets/109058389/54557160-0783-4fa8-bafb-ae101160ab16)
-
 
 ## Usage
 
